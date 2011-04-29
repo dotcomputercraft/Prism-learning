@@ -31,16 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Xpf.Core.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Xpf.Grid.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Xpf.Grid.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Xpf.Printing.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="HelloWorldModule">
-      <HintPath>..\..\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Practices.Prism">
       <HintPath>..\Library.Desktop\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\Library.Desktop\Microsoft.Practices.ServiceLocation.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -60,9 +55,14 @@
   <ItemGroup>
     <Compile Include="PositionModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Views\PositionView.xaml.cs">
-      <DependentUpon>PositionView.xaml</DependentUpon>
+    <Compile Include="Views\AnotherView.xaml.cs">
+      <DependentUpon>AnotherView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\AnotherViewModel.cs" />
+    <Compile Include="Views\MyDataGridView.xaml.cs">
+      <DependentUpon>MyDataGridView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MyDataGridViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DelMarOMSClient.Infrastructure\DelMarOMSClient.Infrastructure.csproj">
@@ -71,9 +71,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Views\PositionView.xaml">
-      <SubType>Designer</SubType>
+    <Page Include="Views\AnotherView.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MyDataGridView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>

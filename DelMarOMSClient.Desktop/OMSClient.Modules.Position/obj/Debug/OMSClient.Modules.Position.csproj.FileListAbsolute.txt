@@ -14,3 +14,19 @@ C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\
 C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll.licenses
 C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll
 C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.pdb
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\OMSClient.Modules.Position.dll
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\OMSClient.Modules.Position.pdb
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\DelMarOMSClient.Infrastructure.dll
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\DelMarOMSClient.Infrastructure.pdb
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\AnotherView.baml
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\MyDataGridView.baml
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\AnotherView.g.cs
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\MyDataGridView.g.cs
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position_MarkupCompile.cache
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.g.resources
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll.licenses
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll
+C:\Projects\problems\Prism-learning\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.pdb
