@@ -1,0 +1,57 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:inf="clr-namespace:DelMarOMSClient.Infrastructure;assembly=DelMarOMSClient.Infrastructure" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="DelMarOMSClient.Desktop.OMSSplashScreen"
+        Title="Initializing OMS client..." Height="304" Width="300"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Topmost="True"
+        Focusable="False"
+        BorderThickness="1"
+        BorderBrush="#FF376991"
+        >
+    <Window.Resources>
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+    </Window.Resources>
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="1,1" StartPoint="0,0">
+            <GradientStop Color="LightSteelBlue" Offset="0"/>
+            <GradientStop Color="SteelBlue" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition />
+			<ColumnDefinition Width="Auto" MinWidth="82"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition />
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		<Label Content="Launching OMS client" Margin="8,6.04,0,-6.04" HorizontalAlignment="Left" Grid.RowSpan="4" Width="186" />
+		<Label Grid.Column="1" Grid.Row="0"
+			HorizontalAlignment="Right"
+			Content="{x:Static inf:CommonModel.FullVersionNumber}"/>
+		<Border
+			BorderThickness="1"
+			BorderBrush="#50000000"
+			Background="#10000000" Margin="-0.423,12,0,51" Grid.Row="1" HorizontalAlignment="Left">
+			<Image Source="/Resources/logoPictureBox.Image.jpg" Stretch="Fill" Margin="11.423,2.5,20.577,17.5"/>            
+		</Border>
+		<Label Grid.Column="1" Grid.Row="1"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Top"
+			FontFamily="Georgia"
+			FontSize="32"
+			FontWeight="Bold"
+			Content="{x:Static inf:CommonModel.MajorVersion}" Width="82"/>
+		<Label Grid.Row="1" Grid.ColumnSpan="2"
+			Content="{Binding Message}" Margin="0,230.04,0,0" d:LayoutOverrides="GridBox"/>
+
+	</Grid>
+</Window>

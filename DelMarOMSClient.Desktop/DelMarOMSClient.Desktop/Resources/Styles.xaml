@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Fill Brushes -->
+
+    <LinearGradientBrush x:Key="headerBarBG" EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FF284292"/>
+        <GradientStop Color="#FF2175B8" Offset="0.26499998569488525"/>
+    </LinearGradientBrush>
+    
+</ResourceDictionary>

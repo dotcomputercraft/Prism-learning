@@ -1,0 +1,16 @@
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\OMSClient.Modules.Position.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\OMSClient.Modules.Position.pdb
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\DelMarOMSClient.Infrastructure.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\HelloWorldModule.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\DelMarOMSClient.Infrastructure.pdb
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\bin\Debug\HelloWorldModule.pdb
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\PositionView.baml
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\Views\PositionView.g.cs
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position_MarkupCompile.cache
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.g.resources
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll.licenses
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.dll
+C:\Users\jmontoya\Documents\Visual Studio 2010\Projects\DelMarOMSClient.Desktop\OMSClient.Modules.Position\obj\Debug\OMSClient.Modules.Position.pdb
